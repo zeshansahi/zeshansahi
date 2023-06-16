@@ -15,6 +15,6 @@ Medium Blog
 In addition to coding, I enjoy writing and sharing my knowledge with the community. I regularly publish articles on Medium, where I discuss various Android development concepts, best practices, and emerging trends. Make sure to check out my [Medium profile](https://medium.com/@zeshansahi4u) to find insightful articles that might help you in your Android development journey.
 
 Get in Touch
-I'm always open to collaborating on interesting projects or discussing Android development-related topics. If you have any questions, suggestions, or opportunities, please don't hesitate to reach out to me. You can contact me via [LinkedIn](https://www.linkedin.com/in/zeshan-android-dev/) or by email at [email](zeshansahi4u@gmail.com).
+I'm always open to collaborating on interesting projects or discussing Android development-related topics. If you have any questions, suggestions, or opportunities, please don't hesitate to reach out to me. You can contact me via [LinkedIn](https://www.linkedin.com/in/zeshan-android-dev/) or by email at zeshansahi4u@gmail.com.
 
 Let's connect, share knowledge, and create amazing Android experiences together!
