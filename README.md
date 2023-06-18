@@ -4,10 +4,15 @@ Welcome to my GitHub profile! I'm an experienced Android developer with over 5 y
 About Me
 
 💻 Android Developer with 5+ years of experience
+
 📱 Specialized in building robust and user-friendly Android applications
+
 🌟 Strong knowledge of Java and Kotlin programming languages
+
 🚀 Proficient in using Android Studio and popular development tools
+
 🎨 Skilled in designing elegant user interfaces and delivering seamless user experiences
+
 ✍️ I also share my insights and knowledge on Medium, covering various Android development topics
 
 My Projects
