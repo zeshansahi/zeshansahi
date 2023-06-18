@@ -2,12 +2,19 @@
 Welcome to my GitHub profile! I'm an experienced Android developer with over 5 years of hands-on industry experience. I'm passionate about creating high-quality mobile applications and exploring the latest trends in the Android development ecosystem.
 
 About Me
+
 💻 Android Developer with 5+ years of experience
+
 📱 Specialized in building robust and user-friendly Android applications
+
 🌟 Strong knowledge of Java and Kotlin programming languages
+
 🚀 Proficient in using Android Studio and popular development tools
+
 🎨 Skilled in designing elegant user interfaces and delivering seamless user experiences
+
 ✍️ I also share my insights and knowledge on Medium, covering various Android development topics
+
 My Projects
 Here on my [GitHub](https://github.com/zeshansahi?tab=repositories), you'll find a collection of my open-source projects and contributions. These projects reflect my skills, creativity, and dedication to delivering top-notch Android applications. Feel free to explore and utilize them for learning or inspiration.
 
