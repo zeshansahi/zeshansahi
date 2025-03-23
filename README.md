@@ -3,13 +3,13 @@ Welcome to my GitHub profile! I'm an experienced Android developer with over 8 y
 
 ### About Me
 
-- 💻 Android Developer with 5+ years of experience
+- 💻 Android Native And Flutter developer with 8+ years of experience
 
-- 📱 Specialized in building robust and user-friendly Android applications
+- 📱 Specialized in building robust and user-friendly Android/iOS applications
 
-- 🌟 Strong knowledge of Java and Kotlin programming languages
+- 🌟 Strong knowledge of Java/Kotlin and Dart(Flutter) programming languages
 
-- 🚀 Proficient in using Android Studio and popular development tools
+- 🚀 Proficient in using Android Studio,VsCode and Xcode and popular development tools
 
 - 🎨 Skilled in designing elegant user interfaces and delivering seamless user experiences
 
