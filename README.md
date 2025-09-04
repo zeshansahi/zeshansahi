@@ -25,3 +25,4 @@ Get in Touch
 I'm always open to collaborating on interesting projects or discussing Android development-related topics. If you have any questions, suggestions, or opportunities, please don't hesitate to reach out to me.
 
 Let's connect, share knowledge, and create amazing Android experiences together!
+**
