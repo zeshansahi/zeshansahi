@@ -1,28 +1,69 @@
-### Hi there 👋
-Welcome to my GitHub profile! I'm an experienced Android developer with over 8 years of hands-on industry experience. I'm passionate about creating high-quality mobile applications and exploring the latest trends in the Android development ecosystem.
+## 👋 Hi, I'm Zeshan Ali
 
-### About Me
+🚀 Mobile App Consultant | Android & Flutter Specialist  
+📡 Bluetooth (BLE) | HealthTech | Real-Time Systems  
 
-- 💻 Android Native And Flutter developer with 8+ years of experience
+I help Health & IoT startups build scalable, production-ready mobile applications.
 
-- 📱 Specialized in building robust and user-friendly Android/iOS applications
+With 8+ years of experience in Android (Java/Kotlin) and Flutter, I specialize in solving complex mobile engineering challenges — especially hardware integrations, BLE communication, real-time data handling, and performance optimization.
 
-- 🌟 Strong knowledge of Java/Kotlin and Dart(Flutter) programming languages
+---
 
-- 🚀 Proficient in using Android Studio,VsCode and Xcode and popular development tools
+## 💡 What I Specialize In
 
-- 🎨 Skilled in designing elegant user interfaces and delivering seamless user experiences
+- 📱 Android Native & Flutter architecture (MVVM, Clean Architecture)
+- 🧠 Scalable Flutter state management (BLoC, Riverpod, Provider)
+- 🏗 Clean architecture & modular app structure
+- 🔵 Bluetooth Low Energy (BLE) integrations & device communication
+- 🏥 Health-tech & remote patient monitoring applications
+- 🎥 Real-time systems & video calling apps
+- ⚡ Performance optimization & crash reduction
+- 🔔 Scalable push notification & background service handling
 
-- ✍️ I also share my insights and knowledge on Medium, covering various Android development topics
+---
 
-### My Projects
-Here on my [GitHub](https://github.com/zeshansahi?tab=repositories), you'll find a collection of my open-source projects and contributions. These projects reflect my skills, creativity, and dedication to delivering top-notch Android applications. Feel free to explore and utilize them for learning or inspiration.
+## 🛠 Technical Stack
 
-### Medium Blog
-In addition to coding, I enjoy writing and sharing my knowledge with the community. I regularly publish articles on Medium, where I discuss various Android development concepts, best practices, and emerging trends. Make sure to check out my [Medium profile](https://medium.com/@zeshansahi4u) to find insightful articles that might help you in your Android development journey.
+**Mobile:**  
+Kotlin, Java, Dart (Flutter), Android SDK  
 
-Get in Touch
-I'm always open to collaborating on interesting projects or discussing Android development-related topics. If you have any questions, suggestions, or opportunities, please don't hesitate to reach out to me.
+**Architecture & Tools:**  
+MVVM, Clean Architecture, Coroutines, Jetpack Components  
 
-Let's connect, share knowledge, and create amazing Android experiences together!
-**
+**Backend Integration:**  
+REST APIs, Firebase (FCM, Firestore, Realtime DB), WebSockets  
+
+**Hardware & IoT:**  
+BLE, External device integrations, Secure data handling  
+
+---
+
+## 📂 Open Source & Projects
+
+Here you’ll find selected projects demonstrating:
+
+- Android architecture patterns  
+- BLE communication handling  
+- Utility libraries & Android components  
+- Performance-focused implementations  
+
+These repositories reflect my engineering approach: clean structure, scalability, and reliability.
+
+👉 Explore: [Repositories](https://github.com/zeshansahi?tab=repositories)
+
+---
+
+## ✍️ Writing & Knowledge Sharing
+
+I regularly share insights on Android development, architecture decisions, and real-world mobile challenges on Medium.
+
+📖 Medium: https://medium.com/@zeshansahi4u
+
+---
+
+## 🤝 Let’s Collaborate
+
+If you're building a HealthTech, IoT, or real-time mobile product and need a reliable mobile specialist, feel free to connect.
+
+📩 Open to consulting & contract projects (Global)
+
