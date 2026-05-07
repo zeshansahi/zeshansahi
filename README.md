@@ -1,69 +1,56 @@
-## 👋 Hi, I'm Zeshan Ali
+# 👋 Hi, I'm Zeshan Ali
 
-🚀 Mobile App Consultant | Android & Flutter Specialist  
-📡 Bluetooth (BLE) | HealthTech | Real-Time Systems  
+Mobile App Consultant specializing in BLE healthcare systems, real-time communication, and scalable Flutter/Android applications.
 
-I help Health & IoT startups build scalable, production-ready mobile applications.
+I help startups and businesses build reliable mobile apps involving:
 
-With 8+ years of experience in Android (Java/Kotlin) and Flutter, I specialize in solving complex mobile engineering challenges — especially hardware integrations, BLE communication, real-time data handling, and performance optimization.
+* Bluetooth Low Energy (BLE)
+* Health & IoT device integrations
+* Video calling & real-time systems
+* Android TV / FireTV applications
+* Performance-critical mobile architectures
 
----
+With 8+ years in Android (Java/Kotlin) and 5+ years in Flutter, I focus on solving complex engineering problems — not just building screens.
 
-## 💡 What I Specialize In
+## 💡 Core Expertise
 
-- 📱 Android Native & Flutter architecture (MVVM, Clean Architecture)
-- 🧠 Scalable Flutter state management (BLoC, Riverpod, Provider)
-- 🏗 Clean architecture & modular app structure
-- 🔵 Bluetooth Low Energy (BLE) integrations & device communication
-- 🏥 Health-tech & remote patient monitoring applications
-- 🎥 Real-time systems & video calling apps
-- ⚡ Performance optimization & crash reduction
-- 🔔 Scalable push notification & background service handling
+* BLE communication & device connectivity
+* Health-tech & remote patient monitoring apps
+* Flutter & Android scalable architectures
+* Real-time video/audio systems
+* Background services & push notification systems
+* Performance optimization & app stability improvements
 
----
+## 🛠 Tech Stack
 
-## 🛠 Technical Stack
+### Mobile
 
-**Mobile:**  
-Kotlin, Java, Dart (Flutter), Android SDK  
+Kotlin • Java • Dart • Flutter • Android SDK
 
-**Architecture & Tools:**  
-MVVM, Clean Architecture, Coroutines, Jetpack Components  
+### Architecture
 
-**Backend Integration:**  
-REST APIs, Firebase (FCM, Firestore, Realtime DB), WebSockets  
+MVVM • Clean Architecture • Coroutines • Flow • Jetpack Components
 
-**Hardware & IoT:**  
-BLE, External device integrations, Secure data handling  
+### Backend & Realtime
 
----
+REST APIs • Firebase • WebSockets • Agora
 
-## 📂 Open Source & Projects
+### Hardware & IoT
 
-Here you’ll find selected projects demonstrating:
+BLE • External Device Integrations • Secure Data Handling
 
-- Android architecture patterns  
-- BLE communication handling  
-- Utility libraries & Android components  
-- Performance-focused implementations  
+## 📂 Featured Work
 
-These repositories reflect my engineering approach: clean structure, scalability, and reliability.
+This GitHub includes selected repositories demonstrating:
 
-👉 Explore: [Repositories](https://github.com/zeshansahi?tab=repositories)
+* BLE communication handling
+* Android architecture patterns
+* Performance-focused implementations
+* Utility libraries & reusable components
 
----
+## ✍️ Technical Writing
 
-## ✍️ Writing & Knowledge Sharing
+I also write about Android architecture, Flutter engineering, and real-world mobile development challenges.
 
-I regularly share insights on Android development, architecture decisions, and real-world mobile challenges on Medium.
-
-📖 Medium: https://medium.com/@zeshansahi4u
-
----
-
-## 🤝 Let’s Collaborate
-
-If you're building a HealthTech, IoT, or real-time mobile product and need a reliable mobile specialist, feel free to connect.
-
-📩 Open to consulting & contract projects (Global)
-
+📖 Medium:
+[zeshan](https://medium.com/@zeshansahi4u)
